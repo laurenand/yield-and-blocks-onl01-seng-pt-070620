@@ -1,5 +1,3 @@
-require 'pry'
-
 def hello_t(array)
   if block_given?
   i = 0
